@@ -1,4 +1,4 @@
-# Kongregate Archive
+# Kongregate Archiver
 
 Attempts to scrape Kongregate's HTML pages and generate a working link to each game's .swf file located on chat.kongregate.com. Of the >126,000 games hosted, the method used here can successfully obtain 599 flash games. Until an alternative to the current algorithm is found, this is as many as can be retrieved. The games found are located in the games folder, so just grab that if that's what you're here for. To play them, you can still download the Flash debugger player from Adobe officially. Some games still won't run, however.
 
